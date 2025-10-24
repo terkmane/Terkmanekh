@@ -42,7 +42,7 @@ Je construis des projets utiles et élégants pour valoriser mes compétences au
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/khadidja)
 - 🧑‍💻 [GitHub](https://github.com/khadidja)
-- ✉️ Email : khadidja@example.com
+- ✉️ Email : terkmanekhadidja@gmail.com
 
 ---
 
